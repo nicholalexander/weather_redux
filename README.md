@@ -1,3 +1,6 @@
+
+http://samples.openweathermap.org/data/2.5/forecast?q=London,us&appid=0580c82de9f55ba09344c8340d54f3f0
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
